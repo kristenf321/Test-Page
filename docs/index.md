@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Introduction
 Welcome to my testing of **Markdown** !  
-This file shows how to use *different formatting features* in a GitHub repository.
+This file shows how to use different formatting features in a GitHub repository.
 
 ---
 
