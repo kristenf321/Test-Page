@@ -19,8 +19,8 @@ You can make text **bold**, *italic*, or even **_both_**.
 ---
 
 ##  Images
-### From the web
-![Cute cat from google](https://i.pinimg.com/originals/7f/b3/e0/7fb3e07f1c659d01da0a1a5c6132eb97.jpg)
+### From google
+(https://i.pinimg.com/originals/7f/b3/e0/7fb3e07f1c659d01da0a1a5c6132eb97.jpg)
 
 ### From my repository
 
