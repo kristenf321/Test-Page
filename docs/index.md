@@ -23,7 +23,6 @@ You can make text **bold**, *italic*, or even **_both_**.
 ![Cute cat from google](https://i.pinimg.com/originals/7f/b3/e0/7fb3e07f1c659d01da0a1a5c6132eb97.jpg)
 
 ### From my repository
----
 I will add this once I add a photo to my repository 
 ---
 
@@ -52,7 +51,6 @@ You can [learn more about iSci here](https://sis.mcmaster.ca/undergraduate/isci/
 | Row 1     | Data A    | Data B    |
 | Row 2     | Data C    | Data D    |
 
----
 ##  Emoji
 Yay Markdown!! :smile: :tada:
 ---
