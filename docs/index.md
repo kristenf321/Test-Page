@@ -19,8 +19,8 @@ You can make text **bold**, *italic*, or even **_both_**.
 ---
 
 ##  Images
-### From google
-![Cute cat from google](https://i.pinimg.com/originals/7f/b3/e0/7fb3e07f1c659d01da0a1a5c6132eb97.jpg)
+### Picture from google
+![Cute bunny from google](https://i.pinimg.com/originals/7f/b3/e0/7fb3e07f1c659d01da0a1a5c6132eb97.jpg)
 
 ### From my repository
 
@@ -29,7 +29,7 @@ I will add this once I add a photo to my repository
 
 ## Ordered List
 1. Clone the repository  
-2. Edit the `index.md` file  
+2. Edit the `index.md` file 
 3. Commit your changes  
 
 
